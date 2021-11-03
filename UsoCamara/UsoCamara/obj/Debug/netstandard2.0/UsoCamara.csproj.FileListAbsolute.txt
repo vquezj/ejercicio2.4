@@ -1,0 +1,15 @@
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\bin\Debug\netstandard2.0\UsoCamara.deps.json
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\bin\Debug\netstandard2.0\UsoCamara.dll
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\bin\Debug\netstandard2.0\ref\UsoCamara.dll
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\bin\Debug\netstandard2.0\UsoCamara.pdb
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.AssemblyInfoInputs.cache
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.AssemblyInfo.cs
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.csproj.CoreCompileInputs.cache
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.dll
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\ref\UsoCamara.dll
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\UsoCamara.pdb
+C:\Users\Jessy Velasquez\source\repos\UsoCamara\UsoCamara\UsoCamara\obj\Debug\netstandard2.0\Views\Fotos.xaml.g.cs

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "wCW987RR3bmtMA+Yiz6h7TYFzwo8JR++66fIQA25SFFIoMdY6zw5balwL0rGG7MzMFPcGeEEpPX4tEnn+zaR/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jessy Velasquez\\source\\repos\\UsoCamara\\UsoCamara\\UsoCamara\\UsoCamara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Jessy Velasquez\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UsoCamara.Views.Fotos">
+    <ContentPage.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"></RowDefinition>
+                <RowDefinition Height="Auto"></RowDefinition>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition Width="*"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Image x:Name="imgcamara" BackgroundColor="LightSlateGray" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Grid.Row="0" Grid.ColumnSpan="3"/>
+            <BoxView Color="LightSlateGray" Grid.Row="1" Grid.Column="0"/>
+            <Button x:Name="btnFoto" Text="Tomar Foto" HorizontalOptions="FillAndExpand" Grid.Row="1" Grid.Column="1" TextColor="Black" BackgroundColor="DarkGoldenrod" BorderRadius="10" BorderWidth="2" BorderColor="Black"/>
+            <BoxView Color="LightSlateGray" Grid.Row="1" Grid.ColumnSpan="2"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>
